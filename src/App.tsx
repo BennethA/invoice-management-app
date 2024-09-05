@@ -1,10 +1,10 @@
 import Header from "./Header"
-import SectionFive from "./SectionFive"
-import SectionFour from "./SectionFour"
 import SectionOne from "./SectionOne"
-import SectionSix from "./SectionSix"
-import SectionThree from "./SectionThree"
 import SectionTwo from "./SectionTwo"
+import SectionThree from "./SectionThree"
+import SectionFour from "./SectionFour"
+import SectionFive from "./SectionFive"
+import SectionSix from "./SectionSix"
 
 
 
